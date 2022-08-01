@@ -25,32 +25,40 @@
       <h2 class="text-4xl mb-10">Projects</h2>
 
       <!-- First Project -->
-      <div id="p1" class="mb-20 flex flex-row h-60 space-x-10 justify-center">
-        <div class="container border-4 border-white w-100">GitHub Link</div>
+      <div id="p1" class="mb-10 flex flex-row h-60 space-x-10 justify-center rounded-md">
+        <div class="container border-4 border-white w-100 overflow-hidden rounded-md"><a target="_blank" href="https://los.svenahac.com/"><img class="w-full h-full" alt="League of Stats" src="./src/assets/los.png"></a></div>
         <div class="container w-100">
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque volutpat nunc vel tortor blandit consectetur. Donec sit amet tellus sit amet purus fringilla rutrum ut at purus. Pellentesque id pulvinar arcu. Fusce lacinia placerat dolor, id varius sapien tristique sit amet. In hac habitasse platea dictumst. Etiam congue commodo velit ut sagittis. Donec mattis magna massa, vitae convallis mauris posuere at. Fusce pulvinar dolor nibh, et luctus neque egestas in. 
-          </p>
+          <p>League of Stats is a statistic website for League Of Legends. It supports searching for 3 servers and displays user stats and stats for 5 most recent matches.</p>
+          <p>Technologies used: React.js, Typescript, Node.js, CSS</p>
+          <ul class="flex flex-row space-x-5 mt-5 justify-center">
+            <li><a target="_blank" href="https://github.com/svenahac/league-of-stats">GitHub</a></li>
+            <p>|</p>
+            <li><a target="_blank" href="https://los.svenahac.com/">Website</a></li>
+          </ul>
         </div>
       </div>
 
       <!-- Second Project -->
       <div id="p2" class="mb-20 flex flex-row h-60 space-x-10 justify-center">
         <div class="container w-100">
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque volutpat nunc vel tortor blandit consectetur. Donec sit amet tellus sit amet purus fringilla rutrum ut at purus. Pellentesque id pulvinar arcu. Fusce lacinia placerat dolor, id varius sapien tristique sit amet. In hac habitasse platea dictumst. Etiam congue commodo velit ut sagittis. Donec mattis magna massa, vitae convallis mauris posuere at. Fusce pulvinar dolor nibh, et luctus neque egestas in. 
-          </p>
+          <p>Memory is a simple javascript card matching game made for a school assigment</p>
+          <p>Technologies used: Javascript, HTML, CSS</p>
+          <ul class="flex flex-row space-x-5 mt-5 justify-center">
+            <li><a target="_blank" href="https://github.com/svenahac/Memory">GitHub</a></li>
+          </ul>
         </div>
-        <div class="container border-4 border-white w-100">GitHub Link</div>
+        <div class="container border-4 border-white w-100 rounded-md overflow-hidden"><a target="_blank" href="https://github.com/svenahac/Memory"><img class="w-full h-full" alt="League of Stats" src="./src/assets/memory.png"></a></div>
       </div>
 
       <!-- Third Project -->
-      <div id="p3" class="mb-10 flex flex-row h-60 space-x-10 justify-center">
-        <div class="container border-4 border-white w-100">GitHub Link</div>
+      <div id="p3" class="mb-20 flex flex-row h-60 space-x-10 justify-center">
+        <div class="container border-4 border-white w-100 rounded-md overflow-hidden"><a target="_blank" href="https://github.com/svenahac/WordGame"><img class="w-full h-full" alt="League of Stats" src="./src/assets/wordGame.png"></a></div>
         <div class="container w-100">
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque volutpat nunc vel tortor blandit consectetur. Donec sit amet tellus sit amet purus fringilla rutrum ut at purus. Pellentesque id pulvinar arcu. Fusce lacinia placerat dolor, id varius sapien tristique sit amet. In hac habitasse platea dictumst. Etiam congue commodo velit ut sagittis. Donec mattis magna massa, vitae convallis mauris posuere at. Fusce pulvinar dolor nibh, et luctus neque egestas in. 
-          </p>
+          <p>Word Search is a game made with java for a school assigment. In the game you collect points by finding words in the english alphabet. </p>
+          <p>Technologies used: Java, Swing GUI</p>
+          <ul class="flex flex-row space-x-5 mt-5 justify-center">
+            <li><a target="_blank" href="https://github.com/svenahac/WordGame">GitHub</a></li>
+          </ul>
         </div>
       </div>
  
