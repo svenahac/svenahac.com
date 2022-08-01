@@ -26,7 +26,7 @@
 
       <!-- First Project -->
       <div id="p1" class="mb-10 flex flex-row h-60 space-x-10 justify-center rounded-md">
-        <div class="container border-4 border-white w-100 overflow-hidden rounded-md"><a target="_blank" href="https://los.svenahac.com/"><img class="w-full h-full" alt="League of Stats" src="./public/assets/los.png"></a></div>
+        <div class="container border-4 border-white w-100 overflow-hidden rounded-md"><a target="_blank" href="https://los.svenahac.com/"><img class="w-full h-full" alt="League of Stats" src="/assets/los.png"></a></div>
         <div class="container w-100">
           <p>League of Stats is a statistic website for League Of Legends. It supports searching for 3 servers and displays user stats and stats for 5 most recent matches.</p>
           <p>Technologies used: React.js, Typescript, Node.js, CSS</p>
@@ -47,12 +47,12 @@
             <li><a target="_blank" href="https://github.com/svenahac/Memory">GitHub</a></li>
           </ul>
         </div>
-        <div class="container border-4 border-white w-100 rounded-md overflow-hidden"><a target="_blank" href="https://github.com/svenahac/Memory"><img class="w-full h-full" alt="Memory" src="./public/assets/memory.png"></a></div>
+        <div class="container border-4 border-white w-100 rounded-md overflow-hidden"><a target="_blank" href="https://github.com/svenahac/Memory"><img class="w-full h-full" alt="Memory" src="/assets/memory.png"></a></div>
       </div>
 
       <!-- Third Project -->
       <div id="p3" class="mb-20 flex flex-row h-60 space-x-10 justify-center">
-        <div class="container border-4 border-white w-100 rounded-md overflow-hidden"><a target="_blank" href="https://github.com/svenahac/WordGame"><img class="w-full h-full" alt="Word Search" src="./public/assets/wordGame.png"></a></div>
+        <div class="container border-4 border-white w-100 rounded-md overflow-hidden"><a target="_blank" href="https://github.com/svenahac/WordGame"><img class="w-full h-full" alt="Word Search" src="/assets/wordGame.png"></a></div>
         <div class="container w-100">
           <p>Word Search is a game made with java for a school assigment. In the game you collect points by finding words in the english alphabet. </p>
           <p>Technologies used: Java, Swing GUI</p>
