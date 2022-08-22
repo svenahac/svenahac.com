@@ -1,8 +1,15 @@
 <script lang="ts">
-  import Counter from './lib/Counter.svelte'
+  import {Router, Route} from "svelte-navigator";
 </script>
 
+<Router>
 <main>
+
+  <Route path="sis">
+    <div class="container flex min-h-screen">
+      <embed src="/assets/sis.pdf" class="mt-5" height="900px" width="1300px">
+    </div>
+  </Route>
   <div class="">
     <div id="fist-page" class="m-0 flex flex-col min-h-screen justify-center">
       <h1 class="text-6xl mb-5">Sven Ahac</h1>
@@ -71,6 +78,4 @@
   </footer>
 </main>
 
-<style>
-  
-</style>
+</Router>
