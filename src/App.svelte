@@ -10,6 +10,7 @@
       <embed src="/assets/sis.pdf" class="mt-5" height="900px" width="1300px">
     </div>
   </Route>
+  <Route path="/">
   <div class="">
     <div id="fist-page" class="m-0 flex flex-col min-h-screen justify-center">
       <h1 class="text-6xl mb-5">Sven Ahac</h1>
@@ -76,6 +77,7 @@
     <span class="block text-sm text-gray-500 sm:text-center dark:text-gray-400">Made in <a target="_blank" href="https://svelte.dev/" class="hover:underline">Svelte</a> with <a target="_blank" href="https://tailwindcss.com/" class="hover:underline">Tailwind CSS</a>
     </span>
   </footer>
+  </Route>
 </main>
 
 </Router>
