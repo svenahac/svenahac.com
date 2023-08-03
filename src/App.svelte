@@ -13,8 +13,7 @@
     </div>
     <div id="about" class="h-72">
       <h2 class="text-4xl mb-5">About me</h2>
-      <p>I am a 21 year old student that is currently studying computer science at UP FAMNIT.</p> 
-      <p>I am aspiring to become a web and software developer.</p>
+      <p>I am a 22 year old student that is currently studying computer science at UP FAMNIT.</p> 
  
     </div>
     <div id="projects" class="m-0 flex flex-col min-h-screen">
